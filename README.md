@@ -9,15 +9,15 @@ Insructions to add:
    1. Upload an image of your piece into the 'media' folder
    2. Then go to 'index.html' and add choose a column denoted by the tag '<div  class="column">'
    3. In the column add:
-        <div class="QuiltSquare">
-            <img src="YOUR_IMAGE_TITLE" class="image">
-            <div class="overlay">
-              <div class="text">
-                <p>name: YOUR NAME</p>
-                <p>location: YOUR LOCATION</p>
-              </div>
-            </div>
-        </div>
+#        <div class="QuiltSquare">
+#            <img src="YOUR_IMAGE_TITLE" class="image">
+#           <div class="overlay">
+#              <div class="text">
+#                <p>name: YOUR NAME</p>
+#                <p>location: YOUR LOCATION</p>
+#              </div>
+#            </div>
+#        </div>
    4. Press save and commit the changes from your own desktop
    5. Run the website to see the new quilt with your upload
 
