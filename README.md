@@ -7,7 +7,10 @@
 Insructions to add:
    
    1. Upload an image of your piece into the 'media' folder
-   2. Then go to 'index.html' and add choose a column denoted by the tag '<div  class="column">'
+   2. Then go to 'index.html' and add choose a column denoted by the tag 
+```html 
+   <div  class="column">
+```
    3. In the column add:
  ```html  
         <div class="QuiltSquare">
